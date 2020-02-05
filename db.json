@@ -9,27 +9,5 @@
       "goToPublic": "false",
       "latestVersion": "devRelease01",
       "appType": "devApp",
-      "devApp": [
-          {
-            "version": "devRelease01",
-            "url": "http://drive.google.com",
-            "improvements": [],
-            "bugFixes": [],
-          },
-          {
-            "version": "soon",
-            "url": "soon",
-            "improvements": [],
-            "bugFixes": [],
-          }
-      ],
-      "prodApp": [
-        {
-            "version": "soon",
-            "url": "soon",
-            "improvements": [],
-            "bugFixes": [],
-        }
-      ]
     }
   }
