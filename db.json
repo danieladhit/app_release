@@ -9,8 +9,13 @@
                 "releaseDate": "2020-02-06 10:00:00",
                 "version": "devRelease01",
                 "url": "http://drive.google.com",
-                "improvements": [],
-                "bugFixes": []
+                "improvements": [
+                    "Location Role Access",
+                    "Back Button Function"
+                ],
+                "bugFixes": [
+                    "-"
+                ]
             },
             "devRelease00": {
                 "releaseDate": "soon",
