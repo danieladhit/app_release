@@ -1,5 +1,6 @@
 {
     "aph_mobile": {
+        "status": "0000",
         "goToPublic": "false",
         "latestVersion": "devRelease01",
         "appType": "devApp",
