@@ -4,30 +4,30 @@
         "goToPublic": "true",
         "latestVersion": "devRelease01",
         "appType": "devApp",
-        "devApp": [
-            {
+        "devApp": {
+            "devRelease01": {
                 "releaseDate": "2020-02-06 10:00:00",
                 "version": "devRelease01",
                 "url": "http://drive.google.com",
                 "improvements": [],
                 "bugFixes": []
             },
-            {
+            "devRelease00": {
                 "releaseDate": "soon",
                 "version": "soon",
                 "url": "soon",
                 "improvements": [],
                 "bugFixes": []
             }
-        ],
-        "prodApp": [
-            {
+        },
+        "prodApp": {
+            "prodRelease01": {
                 "releaseDate": "soon",
                 "version": "soon",
                 "url": "soon",
                 "improvements": [],
                 "bugFixes": []
             }
-        ]
+        }
     }
 }
