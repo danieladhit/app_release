@@ -11,12 +11,14 @@
         "appType": "devApp",
         "devApp": [
             {
+                "releaseDate": "2020-02-06 10:00:00",
                 "version": "devRelease01",
                 "url": "http://drive.google.com",
                 "improvements": [],
                 "bugFixes": []
             },
             {
+                "releaseDate": "soon",
                 "version": "soon",
                 "url": "soon",
                 "improvements": [],
@@ -25,6 +27,7 @@
         ],
         "prodApp": [
             {
+                "releaseDate": "soon",
                 "version": "soon",
                 "url": "soon",
                 "improvements": [],
