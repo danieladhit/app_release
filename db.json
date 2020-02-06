@@ -2,7 +2,7 @@
     "aph_mobile": {
         "status": "0000",
         "goToPublic": "true",
-        "latestVersion": "devRelease01",
+        "latestVersion": "devRelease001",
         "appType": "devApp",
         "devApp": {
             "devRelease02": {
@@ -12,7 +12,7 @@
                 "improvements": [],
                 "bugFixes": []
             },
-            "devRelease01": {
+            "devRelease001": {
                 "releaseDate": "2020-02-06 10:00:00",
                 "version": "devRelease01",
                 "url": "https://drive.google.com/open?id=1M9N9x-dVW51bqf0kBLW4VN9qIz6EODGm",
